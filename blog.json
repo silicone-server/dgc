@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "title": "Hello world!",
+	  "id": 1,
+	  "body": "This is the first ever post on our new official blog!\nWe have moved from Netlify and Svelte to SvelteKit, Cloudflare and NGINX! This is a great day for mankind (not really, but it's a really productive day for me and I'm proud of it).\nDon't forget to join our discord, and stay safe!"
+    }
+  ]
+}
